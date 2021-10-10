@@ -1,5 +1,6 @@
 <?php
 
+//https://youtu.be/E1ms4qpfy78?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
     $products = [
         ['name' => 'shiny star', 'price' => 20],
         ['name' => 'green shell', 'price' => 10],
@@ -26,6 +27,5 @@
             <?php } ?>
         </ul>
     </div>
-
 </body>
 </html>
