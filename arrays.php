@@ -21,7 +21,14 @@
     $nn = ['shaun' => 'black', 'mario' => 'orange', 'luigee' => 'brown'];
     echo $nn['mario'].'<br>';
     echo count($nn).'<br>';
+    
+    $emp = [];
+    array_push($emp, 'ok');
+    echo $emp[0].'<br>';
 
+    $emp1 = [];
+    $emp1['ok'] = 1;
+    echo $emp1['ok'];
 
 ?>
 
