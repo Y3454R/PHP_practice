@@ -45,7 +45,7 @@
 
     $adminuser1 = new AdminUser('yeasar', 'yeasarabir@gmail.com', 5);
 
-    echo $adminuser1->message().'<br>';
+    echo $user1->message().'<br>';
     echo $adminuser1->message().'<br>';
 
 ?>
