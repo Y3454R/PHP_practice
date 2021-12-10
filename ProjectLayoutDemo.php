@@ -1,4 +1,4 @@
-<? php // ref: https://www.w3schools.com/css/css_website_layout.asp ?>
+<?php // ref: https://www.w3schools.com/css/css_website_layout.asp ?>
 
 <!DOCTYPE html>
 <html>
