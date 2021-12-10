@@ -122,7 +122,7 @@ body {
   <a href="#">Buzz</a>
   <a href="#">Search</a>
   <a href="#">My Buzz</a>
-  <a href="#" style="float:right">Bucketlist</a>
+  <a href="#" style="float:right">Exit</a>
 </div>
 
 <div class="row">
@@ -142,12 +142,12 @@ body {
     
   <div class="rightcolumn">
     <div class="card">
-      <h2>About Me</h2>
+      <h2>Bucket List</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
     <div class="card">
-      <h3>Popular Post</h3>
+      <h3>Top Menu</h3>
       <div class="fakeimg"><p>Image</p></div>
       <div class="fakeimg"><p>Image</p></div>
       <div class="fakeimg"><p>Image</p></div>
@@ -161,5 +161,3 @@ body {
 
 </body>
 </html>
-
-
