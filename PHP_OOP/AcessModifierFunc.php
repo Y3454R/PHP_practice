@@ -5,8 +5,8 @@
 <?php
 class Fruit {
   public $name;
-  public $color;
-  public $weight;
+  protected $color;
+  private $weight;
  
   function set_name($n) {  // a public function (default)
     $this->name = $n;
